@@ -4,6 +4,11 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Version>0.1.0</Version>
+        <Title>Dolite core component for infrastructure</Title>
+        <PackageProjectUrl>https://github.com/uheee/DoliteCore</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/uheee/DoliteCore.git</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
     <ItemGroup>
